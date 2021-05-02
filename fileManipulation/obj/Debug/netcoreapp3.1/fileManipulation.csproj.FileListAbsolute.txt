@@ -1,0 +1,13 @@
+C:\Users\hanan\Desktop\Projects\WEEK4DAY1\fileManipulation\fileManipulation\bin\Debug\netcoreapp3.1\fileManipulation.exe
+C:\Users\hanan\Desktop\Projects\WEEK4DAY1\fileManipulation\fileManipulation\bin\Debug\netcoreapp3.1\fileManipulation.deps.json
+C:\Users\hanan\Desktop\Projects\WEEK4DAY1\fileManipulation\fileManipulation\bin\Debug\netcoreapp3.1\fileManipulation.runtimeconfig.json
+C:\Users\hanan\Desktop\Projects\WEEK4DAY1\fileManipulation\fileManipulation\bin\Debug\netcoreapp3.1\fileManipulation.runtimeconfig.dev.json
+C:\Users\hanan\Desktop\Projects\WEEK4DAY1\fileManipulation\fileManipulation\bin\Debug\netcoreapp3.1\fileManipulation.dll
+C:\Users\hanan\Desktop\Projects\WEEK4DAY1\fileManipulation\fileManipulation\bin\Debug\netcoreapp3.1\fileManipulation.pdb
+C:\Users\hanan\Desktop\Projects\WEEK4DAY1\fileManipulation\fileManipulation\obj\Debug\netcoreapp3.1\fileManipulation.csprojAssemblyReference.cache
+C:\Users\hanan\Desktop\Projects\WEEK4DAY1\fileManipulation\fileManipulation\obj\Debug\netcoreapp3.1\fileManipulation.AssemblyInfoInputs.cache
+C:\Users\hanan\Desktop\Projects\WEEK4DAY1\fileManipulation\fileManipulation\obj\Debug\netcoreapp3.1\fileManipulation.AssemblyInfo.cs
+C:\Users\hanan\Desktop\Projects\WEEK4DAY1\fileManipulation\fileManipulation\obj\Debug\netcoreapp3.1\fileManipulation.csproj.CoreCompileInputs.cache
+C:\Users\hanan\Desktop\Projects\WEEK4DAY1\fileManipulation\fileManipulation\obj\Debug\netcoreapp3.1\fileManipulation.dll
+C:\Users\hanan\Desktop\Projects\WEEK4DAY1\fileManipulation\fileManipulation\obj\Debug\netcoreapp3.1\fileManipulation.pdb
+C:\Users\hanan\Desktop\Projects\WEEK4DAY1\fileManipulation\fileManipulation\obj\Debug\netcoreapp3.1\fileManipulation.genruntimeconfig.cache
